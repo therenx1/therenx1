@@ -1,16 +1,16 @@
-## Hi there 👋
+# Renzo Zarate 👨‍💻
 
-<!--
-**therenx1/therenx1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-Stack Developer | Node.js · Express 
 
-Here are some ideas to get you started:
+### 🚀 Proyectos Destacados
+- **Clínica Admin** - Sistema de gestión clínica en producción con arquitectura REST
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Stack
+Node.js | Express.js | MySQL | Bootstrap | REST APIs | JWT Auth | DigitalOcean
+
+### 🔧 Especialidades
+- Backend: Node.js, REST APIs, JWT Authentication, Database Design
+- Frontend: Vanilla JavaScript, Bootstrap, Chart.js
+- Testing: JUnit 5, Selenium, Cucumber/BDD
+
+### 📍 Lima, Perú | Open to Work
